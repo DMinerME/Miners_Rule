@@ -3,9 +3,9 @@
 
 # Projects
 ## Senior Capstone Project, Utah State University: 
-### My senior capstone design project was an "Impeller Power Number Test Stand." This test stand is a device built for ThermoFisher Scientific. The test stand aims to determine the power number of various impellers. A power number is a dimensionless number that characterises the amount of power an impeller consumes. 
+My senior capstone design project was an "Impeller Power Number Test Stand." This test stand is a device built for ThermoFisher Scientific. The test stand aims to determine the power number of various impellers. A power number is a dimensionless number that characterises the amount of power an impeller consumes. 
 
-### The impeller power number test stand includes many engineering elements: fluid dynamics, electrical systems, structural integrity, and systems engineering. My main focus was on the general design and CAD of the test stand and the electrical wiring systems.
+### The impeller power number test stand includes many engineering elements: fluid dynamics, electrical systems, structural integrity, and systems engineering. My main focus was on the general design and CAD of the test stand and the electrical wiring systems. One such design I created is shown below; the main shaft for the test stand.
 ![EEG Band Discovery](/assets/ThermoFisher_ShaftDrawing.jpg)
 
 ## Solidworks Design/3D Printing:
