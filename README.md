@@ -1,4 +1,4 @@
-# Dallin Mine
+# Dallin Miner
 ## Mechanical Engineer
 
 # Projects
