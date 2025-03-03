@@ -1,4 +1,3 @@
-# Dallin Miner
 *Mechanical Engineer*
 
 
