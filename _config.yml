@@ -1,7 +1,6 @@
 title: Dallin Miner's Projects
 email: dallinminer@gmail.com
-author-bio: Mechanical Engineer, 
-author-image: ProfPic.jpg
-
-theme: jekyll-theme-tactile
+description: Mechanical Engineer
+logo: /assets/ProfPic.jpg
+theme: jekyll-theme-minimal
 
