@@ -1,5 +1,5 @@
 # Dallin Miner
-#### Mechanical Engineer
+####  Mechanical Engineer
 
 
 # Projects
