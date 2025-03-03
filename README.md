@@ -24,7 +24,7 @@ At MKS Instruments, I was instructed to create an interface for a vast Excel she
 ![EEG Band Discovery](/assets/MKS_App.jpg)
 
 ## Thermoelectric Heat Transfer Project:
-During my senior year of college, I began exploring the idea of incorporating the technology used in climate-controlled (cooled) car seats to other types of seats, such as desk chairs and barbershop chairs. To better understand the cooling technology of thermoelectric (TE) devices, I created time-temperature graphs at varying wind speeds and heat sinks. I numerically analyzed the TP devices using principles of heat transfer, such as equations for the convective heat dissipation from a heat sink. I learned a lot about heat transfer throughout this process.
+During my senior year of college, I began exploring the idea of incorporating the technology used in climate-controlled (cooled) car seats to other types of seats, such as desk chairs and barbershop chairs. To better understand the cooling technology of thermoelectric (TE) devices, I created time-temperature graphs at varying wind speeds and heat sinks. I numerically analyzed the TP devices using principles of heat transfer, such as equations for the convective heat dissipation from a heat sink. The picture below shows two fans connected to a housing I designed to house two TE devices and heat sinks.
 
 ![EEG Band Discovery](/assets/TE_Testing_New.jpg)
 
