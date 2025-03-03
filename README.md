@@ -1,4 +1,4 @@
-##### The purpose of this website is to showcase projects that I (Dallin) have worked on over the past few years. I am a self-motivated, business-minded, engineer with a love of learning. I am the happiest when I am in situations where I can learn from others and apply new knowledge to projects, such as these. The motivation for most of the projects I work on is to learn new skills.
+##### The purpose of this website is to showcase projects that I (Dallin) have worked on over the past few years. I am a self-motivated, business-minded, engineer with a love of learning. I am the happiest when I am in situations where I can learn from others and apply new knowledge to projects, such as these.
 
 
 
