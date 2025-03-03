@@ -13,9 +13,12 @@ The impeller power number test stand includes many engineering elements: fluid d
 ![EEG Band Discovery](/assets/ElectronicsBox.jpg)
 
 ## Solidworks Design/3D Printing:
-#### Desktop Phone Charger -
-#### Hardware Containers -
-#### Fixtures for Streamlining Inspection Processes -
+
+####   Desktop Phone Charger -
+
+####   Hardware Containers -
+
+####   Fixtures for Streamlining Inspection Processes -
 
 ## Desktop Application in Python - MKS Instruments, Inc.: 
 At MKS Instruments, I was instructed to create an interface for a vast Excel sheet. The interface needed to pull calibration information, hyperlinks, and other notes from the Excel. I decided to build a desktop application in Python from the ground up. I used various libraries such as Tkinter for the interface, and Pandas to pull the data from the Excel sheet. I wanted to build an app, opposed to creating another spreadsheet to pull information, to gain a better understanding of Python and its capabilities.
