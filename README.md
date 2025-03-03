@@ -21,7 +21,7 @@ The impeller power number test stand includes many engineering elements: fluid d
 ## Desktop Application in Python - MKS Instruments, Inc.: 
 At MKS Instruments, I was instructed to create an interface for a vast Excel sheet. The interface needed to pull calibration information, hyperlinks, and other notes from the Excel. I decided to build a desktop application in Python from the ground up. I used various libraries, such as Tkinter for the interface and Pandas to pull the data from the Excel sheet. I wanted to build an app, rather than creating another spreadsheet to pull information, to gain a better understanding of Python and its capabilities.
 
-![EEG Band Discovery](/assets/MKS_App_New.jpg)
+![EEG Band Discovery](/assets/MKS_App_New.png)
 
 ## Thermoelectric Heat Transfer Project:
 During my senior year of college, I began exploring the idea of incorporating the technology used in climate-controlled (cooled) car seats to other types of seats, such as desk chairs and barbershop chairs. To better understand the cooling technology of thermoelectric (TE) devices, I created time-temperature graphs at varying wind speeds and heat sinks. I numerically analyzed the TE devices using principles of heat transfer, such as equations for the convective heat dissipation from a heat sink. The picture below shows two fans connected to a housing I designed to house two TE devices and heat sinks.
