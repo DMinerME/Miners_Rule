@@ -4,20 +4,31 @@
 ## Senior Capstone Project - Utah State University: 
 My senior capstone design project was an "Impeller Power Number Test Stand" for ThermoFisher Scientific. The test stand aims to determine the power number of various impellers. A power number is a dimensionless number that characterises the amount of power an impeller consumes. 
 
-The impeller power number test stand includes many engineering elements: fluid dynamics, electrical systems, structural integrity, and systems engineering. My main focus was on the general design and CAD of the test stand and the electrical wiring systems. A couple of the components I designed are shown below; the main shaft for the test stand and the electronics system.
+The impeller power number test stand includes many engineering elements: fluid dynamics, electrical systems, structural integrity, and systems engineering. My main focus was on the general design and CAD of the test stand and the electrical wiring systems. Some of the components I designed are shown below; the main shaft for the test stand and the electronics system.
 
-![EEG Band Discovery](/assets/ThermoFisher_ShaftDrawing.jpg) ![EEG Band Discovery](/assets/ElectronicsBox.jpg)
+![EEG Band Discovery](/assets/ThermoFisher_ShaftDrawing.jpg) 
+
+![EEG Band Discovery](/assets/ElectronicsBox.jpg)
 
 ## Solidworks Design/3D Printing:
 
 ####   Desktop Phone Charger -
+The "desktop phone charger" is the most useful 3D print I've designed. The stand wirelessly charges your phone and houses your AirPods. 
+
+![EEG Band Discovery](/assets/Phone_Charger.jpg)
 
 ####   Hardware Containers -
+The hardware containers were the first large 3D-printed project I designed after purchasing my first FDM 3D printer. This design satisfied my desire to learn two principles: 1) how to design threaded objects in Solidworks, and 2) how to embed magnets into 3D-printed parts for added functionality. This design includes 24 threaded containers, labeled with their contents. The cap of each container has an embedded magnet that holds the containers against the back wall of the container housing.
+
+![EEG Band Discovery](/assets/Hardware_Containers.jpg)
 
 ####   Fixtures for Streamlining Inspection Processes -
+While working at Central Valley Machine Inc., I designed fixtures to streamline inspection processes, particularly for high-quantity parts and those with challenging angles. One fixture, pictured below, only took about one hour to design, yet reduced the inspection time by nearly 2000%. This fixture allowed the user to inspect up to 20 parts at a time on the Keyence, a process that previously had to be done one part at a time. This is but one of many figures I created to improve the speed and accuracy of inspection processes.
+
+![EEG Band Discovery](/assets/Keyence_Fixture.jpg)
 
 ## Desktop Application in Python - MKS Instruments, Inc.: 
-At MKS Instruments, I was instructed to create an interface for a vast Excel sheet. The interface needed to pull calibration information, hyperlinks, and other notes from the Excel. I decided to build a desktop application in Python from the ground up. I used various libraries, such as Tkinter for the interface and Pandas to pull the data from the Excel sheet. I wanted to build an app, rather than creating another spreadsheet to pull information, to gain a better understanding of Python and its capabilities.
+At MKS Instruments, I was instructed to create an interface for a vast Excel sheet. The interface needed to pull calibration information, hyperlinks, and other notes from the Excel. I decided to build a desktop application in Python from the ground up. I used various libraries, such as Tkinter for the interface and Pandas to pull the data from the Excel sheet. I wanted to build an app to improve my understanding of Python and its capabilities, rather than create another spreadsheet to pull the required information.
 
 ![EEG Band Discovery](/assets/MKS_App_New.png)
 
