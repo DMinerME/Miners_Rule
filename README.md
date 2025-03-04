@@ -22,7 +22,7 @@ The hardware containers were the first large 3D-printed project I designed after
 
 ![EEG Band Discovery](/assets/Hardware_Containers.jpg)
 
-####   Fixtures for Streamlining Inspection Processes -
+####   Inspection Fixtures -
 While working at Central Valley Machine Inc., I designed fixtures to streamline inspection processes, particularly for high-quantity parts and those with challenging angles. One fixture, pictured below, only took about one hour to design, yet reduced the inspection time by nearly 2000%. This fixture allowed the user to inspect up to 20 parts at a time on the Keyence, a process that previously had to be done one part at a time. This is but one of many figures I created to improve the speed and accuracy of inspection processes.
 
 ![EEG Band Discovery](/assets/Keyence_Fixture.jpg)
