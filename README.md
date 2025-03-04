@@ -6,9 +6,7 @@ My senior capstone design project was an "Impeller Power Number Test Stand" for 
 
 The impeller power number test stand includes many engineering elements: fluid dynamics, electrical systems, structural integrity, and systems engineering. My main focus was on the general design and CAD of the test stand and the electrical wiring systems. A couple of the components I designed are shown below; the main shaft for the test stand and the electronics system.
 
-![EEG Band Discovery](/assets/ThermoFisher_ShaftDrawing.jpg)
-
-![EEG Band Discovery](/assets/ElectronicsBox.jpg)
+![EEG Band Discovery](/assets/ThermoFisher_ShaftDrawing.jpg) ![EEG Band Discovery](/assets/ElectronicsBox.jpg)
 
 ## Solidworks Design/3D Printing:
 
