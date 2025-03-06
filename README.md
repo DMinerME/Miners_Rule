@@ -31,7 +31,7 @@ While working at Central Valley Machine Inc., I designed fixtures to streamline 
 ## Desktop Application in Python - MKS Instruments, Inc.: 
 At MKS Instruments, I was instructed to create an interface for an Excel sheet containing extensive information about calibration requirements. The interface needed to pull calibration information, hyperlinks, replacement parts numbers, and other notes from the Excel sheet. I decided to build a desktop application in Python from the ground up. I used libraries such as Tkinter for the interface, Pandas to pull the data from the Excel sheet, and webbrowser to open hyperlinks. I wanted to build an app to improve my understanding of Python and its capabilities, rather than create another spreadsheet to pull the required information.
 
-![EEG Band Discovery](/assets/MKS_App_New2.png)
+![EEG Band Discovery](/assets/MKS_App_New3.png)
 
 ## Thermoelectric Heat Transfer Project:
 During my senior year of college, I began exploring the idea of incorporating the technology used in climate-controlled (cooled) car seats to other types of seats, such as desk chairs and barbershop chairs. To better understand the cooling technology of thermoelectric (TE) devices, I created time-temperature graphs at varying wind speeds and heat sinks. I numerically analyzed the TE devices using principles of heat transfer, such as equations for the convective heat dissipation from a heat sink. The picture below shows two fans connected to a housing I designed to house two TE devices and heat sinks.
