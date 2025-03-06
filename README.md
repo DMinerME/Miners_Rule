@@ -1,6 +1,7 @@
 ##### The purpose of this website is to showcase projects that I (Dallin) have worked on over the past few years. I am a self-motivated, business-minded, engineer with a love of learning. I am the happiest when I am in situations where I can learn from others and apply new knowledge to projects, such as these.
-# -
+# —
 # Projects
+
 ## Senior Capstone Project - Utah State University: 
 My senior capstone design project was an "Impeller Power Number Test Stand" for ThermoFisher Scientific. The test stand aims to determine the power number of various impellers. A power number is a dimensionless number that characterises the amount of power an impeller consumes. 
 
@@ -28,7 +29,7 @@ While working at Central Valley Machine Inc., I designed fixtures to streamline 
 ![EEG Band Discovery](/assets/Keyence_Fixture.jpg)
 
 ## Desktop Application in Python - MKS Instruments, Inc.: 
-At MKS Instruments, I was instructed to create an interface for a vast Excel sheet. The interface needed to pull calibration information, hyperlinks, and other notes from the Excel. I decided to build a desktop application in Python from the ground up. I used various libraries, such as Tkinter for the interface and Pandas to pull the data from the Excel sheet. I wanted to build an app to improve my understanding of Python and its capabilities, rather than create another spreadsheet to pull the required information.
+At MKS Instruments, I was instructed to create an interface for a vast Excel sheet. The interface needed to pull calibration information, hyperlinks, and other notes from the Excel sheet. I decided to build a desktop application in Python from the ground up. I used libraries such as Tkinter for the interface, Pandas to pull the data from the Excel sheet, and webbrowser to open hyperlinks. I wanted to build an app to improve my understanding of Python and its capabilities, rather than create another spreadsheet to pull the required information.
 
 ![EEG Band Discovery](/assets/MKS_App_New2.png)
 
@@ -36,6 +37,3 @@ At MKS Instruments, I was instructed to create an interface for a vast Excel she
 During my senior year of college, I began exploring the idea of incorporating the technology used in climate-controlled (cooled) car seats to other types of seats, such as desk chairs and barbershop chairs. To better understand the cooling technology of thermoelectric (TE) devices, I created time-temperature graphs at varying wind speeds and heat sinks. I numerically analyzed the TE devices using principles of heat transfer, such as equations for the convective heat dissipation from a heat sink. The picture below shows two fans connected to a housing I designed to house two TE devices and heat sinks.
 
 ![EEG Band Discovery](/assets/TE_Testing_New.jpg)
-
-## Arduino
-#### 
