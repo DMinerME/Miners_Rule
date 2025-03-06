@@ -29,7 +29,7 @@ While working at Central Valley Machine Inc., I designed fixtures to streamline 
 ![EEG Band Discovery](/assets/Keyence_Fixture.jpg)
 
 ## Desktop Application in Python - MKS Instruments, Inc.: 
-At MKS Instruments, I was instructed to create an interface for a vast Excel sheet. The interface needed to pull calibration information, hyperlinks, and other notes from the Excel sheet. I decided to build a desktop application in Python from the ground up. I used libraries such as Tkinter for the interface, Pandas to pull the data from the Excel sheet, and webbrowser to open hyperlinks. I wanted to build an app to improve my understanding of Python and its capabilities, rather than create another spreadsheet to pull the required information.
+At MKS Instruments, I was instructed to create an interface for an Excel sheet containing extensive information about calibration requirements. The interface needed to pull calibration information, hyperlinks, replacement parts numbers, and other notes from the Excel sheet. I decided to build a desktop application in Python from the ground up. I used libraries such as Tkinter for the interface, Pandas to pull the data from the Excel sheet, and webbrowser to open hyperlinks. I wanted to build an app to improve my understanding of Python and its capabilities, rather than create another spreadsheet to pull the required information.
 
 ![EEG Band Discovery](/assets/MKS_App_New2.png)
 
