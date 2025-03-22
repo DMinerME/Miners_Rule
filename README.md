@@ -19,7 +19,7 @@ At MKS Instruments, I was instructed to create an interface for an Excel sheet c
 ## Solidworks Design/3D Printing:
 
 ####   Desktop Phone Charger -
-The "desktop phone charger" is the most useful 3D print I've designed. The stand wirelessly charges your phone and houses your AirPods. This was designed in two sections that seamlessly connect.
+The "desktop phone charger" is the most useful 3D print I've designed. The stand wirelessly charges your phone and houses your AirPods. This charger was designed in two sections that seamlessly connect.
 
 ![EEG Band Discovery](/assets/Phone_Charger.jpg)
 
