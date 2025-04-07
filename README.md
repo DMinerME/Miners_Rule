@@ -14,7 +14,7 @@ The impeller power number test stand includes many engineering disciplines: flui
 ## Desktop Application in Python - MKS Instruments, Inc.: 
 At MKS Instruments, I was instructed to create an interface for an Excel sheet containing extensive information about calibration requirements. The interface needed to pull calibration information, hyperlinks, replacement parts numbers, and other notes from the Excel sheet. I decided to build a desktop application in Python from the ground up. I used libraries such as Tkinter for the interface, Pandas to pull the data from the Excel sheet, and Webbrowser to open hyperlinks. I wanted to build an app to improve my understanding of Python and its capabilities, rather than create another spreadsheet to pull the required information.
 
-![EEG Band Discovery](/assets/MSK_App_New5.png)
+![EEG Band Discovery](/assets/MKS_App_New6.png)
 
 ## Solidworks Design/3D Printing:
 
