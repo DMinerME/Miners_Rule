@@ -1,4 +1,4 @@
-##### The purpose of this website is to showcase projects that I (Dallin) have worked on over the past few years. I am a self-motivated and business-minded engineer with a love of learning. I am the happiest when I am in situations where I can learn from others and apply new knowledge to projects, such as these.
+##### The purpose of this website is to showcase projects that I (Dallin) have worked on over the past few years. I am a self-motivated, business-minded engineer with a love of learning. I am the happiest when I am in situations where I can learn from others and apply new knowledge to projects, such as these.
 # —
 # Projects
 
@@ -29,7 +29,7 @@ These hardware containers were the first large 3D-printed project I designed aft
 ![EEG Band Discovery](/assets/Hardware_Containers.jpg)
 
 ####   Inspection Fixtures -
-While working at Central Valley Machine Inc., I designed fixtures to streamline inspection processes, particularly for high-quantity parts and those with challenging angles. One fixture, pictured below, only took about one hour to design, yet reduced the inspection time by nearly 2000%. This fixture allowed the user to inspect up to 20 parts at a time on the Keyence, a process that previously had to be done one part at a time. This is one of many fixtures I created to improve the speed and accuracy of inspection processes.
+While working at Central Valley Machine Inc., I designed fixtures to streamline inspection processes, particularly for high-quantity parts and those with challenging angles. One fixture, pictured below, only took a couple of hours to design, yet reduced the inspection time by nearly 2000%. This fixture allowed the user to inspect up to 20 parts at a time on the Keyence, a process that previously had to be done one part at a time. This is one of many fixtures I created to improve the speed and accuracy of inspection processes.
 
 ![EEG Band Discovery](/assets/Keyence_Fixture.jpg)
 
@@ -37,3 +37,8 @@ While working at Central Valley Machine Inc., I designed fixtures to streamline 
 During my senior year of college, I began exploring the idea of incorporating the technology used in climate-controlled (cooled) car seats into other types, such as desk chairs and barbershop chairs. To better understand the cooling technology of thermoelectric (TE) devices, I created time-temperature graphs at varying wind speeds and heat sinks. I numerically analyzed the TE devices using principles of heat transfer, such as equations for the convective heat dissipation from a heat sink. The picture below shows two fans connected to a housing I designed to house two TE devices and heat sinks.
 
 ![EEG Band Discovery](/assets/TE_Testing_New.jpg)
+
+## Lifting Strength System
+I am dedicated to maintaining a healthy lifestyle. Part of my lifestyle includes regularly attending the gym and setting lifting goals. To aid in my gym progression, I created "Dallin's Strength System," an Excel document that tracks my "top sets" (my heavy lifting sets that require more than 80% effort within less than 6 reps). This Excel sheet takes my top sets and applies a formula that estimates a one-rep max (ORM). The sheet then graphs the results in its respective category to show progression over time.
+
+![EEG Band Discovery](/assets/Strength_System.png)
