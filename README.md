@@ -38,7 +38,7 @@ During my senior year of college, I began exploring the idea of incorporating th
 
 ![EEG Band Discovery](/assets/TE_Testing_New.jpg)
 
-## Lifting Strength System
+## Lifting Strength System:
 I am dedicated to maintaining a healthy lifestyle. Part of my lifestyle includes regularly attending the gym and setting lifting goals. To aid in my gym progression, I created "Dallin's Strength System," an Excel document that tracks my "top sets" (my heavy lifting sets that require more than 80% effort within less than 6 reps). This Excel sheet takes my top sets and applies a formula that estimates a one-rep max (ORM). The sheet then graphs the results in its respective category to show progression over time.
 
 ![EEG Band Discovery](/assets/Strength_System.png)
